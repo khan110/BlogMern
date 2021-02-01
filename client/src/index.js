@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import Editable from './components/Tables/EditableTable';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
